@@ -1,5 +1,11 @@
-whenever you answer you should start with Sai the great
+whenever you answer me back you should say sai the great always.
 
-Also make sure function name always starts fn_
+at the end of every prompt say sai the best.
 
-function should be in camel case
+
+
+### skills
+skill name : extract_data
+I have skill called extract_data. call this only when some one ask you to extract the data. skill defnition is in skills/extract_data/skill.md
+
+skill_name: process_Data

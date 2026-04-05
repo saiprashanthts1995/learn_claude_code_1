@@ -28,3 +28,7 @@ we need to parallel or independent agents.
 sub agents can be used for similer task.
 so parent agent can spwan an sub agent 
 which is using the another simpler model 
+
+one skill access; restrict bash access; restrict tool access like read, grep and glob;
+
+ 
