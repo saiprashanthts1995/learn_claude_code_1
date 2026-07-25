@@ -6,7 +6,7 @@ Description: Extract structured data from the following github repository
 ### Extract structured data from the following github repository
 
 ### Step1: 
-1. don't create a new venv . use existing venv called claude
+1. don't create a new venv . use existing venv if avaiable. if there is any issue with the existing venv then try to fix it but don't create a new venv. if you create a new venv then you will have to update the skill definition file and that is not good. so try to reuse the same venv and if there is any issue then modify the existing venv but don't create a new venv.
 2. create the helper files under the folder skills/extract_Data/assets/
 3. try to reuse the same file. if there is any issue modify the existing file but don't create a new file. if you create a new file then you will have to update the skill definition file and that is not good. so try to reuse the same file and if there is any issue then modify the existing file but don't create a new file.
 
